@@ -29,6 +29,6 @@ function iLoveTheBeatles(n) {
   return empty2 
 }
 //
-theBeatlesPlay(musicians, instruments);
-johnLennonFacts(facts);
-iLoveTheBeatles(7);
+//theBeatlesPlay(musicians, instruments);
+//johnLennonFacts(facts);
+//iLoveTheBeatles(7);
